@@ -1,6 +1,6 @@
 # MATLAB Particle Tracker
 
-<img src="http://www.johnlian.ca/images/particle-tracker-in-action.png" width="400">
+<img src="http://www.jlian.co/images/particle-tracker-in-action.png" width="400">
 
 This is an application that can be used to track particles with a series of images. It uses algorithms adopted from the [The Matlab Particle Tracking Code Repository](http://site.physics.georgetown.edu/matlab/).
 
@@ -16,6 +16,6 @@ Now, run `main.m` in MATLAB to get started. It will ask you where the images are
 
 If everything goes well, the program will let you know and ask if you'd like to animate the results. Hopefully, your results look something like this:
 
-<img src="http://www.johnlian.ca/matlab-animation/shock.gif">
+<img src="http://www.jlian.co/matlab-animation/shock.gif">
 
 If it fails then you'll have to adjust the parameters in your `config.m` through trial and error. It can be a fairly painful process. Good luck!
