@@ -19,3 +19,7 @@ If everything goes well, the program will let you know and ask if you'd like to 
 <img src="http://www.jlian.co/matlab-animation/shock.gif">
 
 If it fails then you'll have to adjust the parameters in your `config.m` through trial and error. It can be a fairly painful process. Good luck!
+
+## More details
+
+See [Efficient animation with MATLAB](https://johnlian.net/posts/matlab-animation/).
